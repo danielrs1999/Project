@@ -1,14 +1,36 @@
-{"Personajes":[
-  {"name":"John",
-  "age":30},
-  {"name":"John",
-  "age":30}
+{  
+   "Animes":[  
+      {  
+         "name":"John",
+         "age":30,
+         "personatges":[  
+            {  
+               "aa":"bb",
+               "cc":"dd",
+               "ad":"da"
+            }
+         ]
+      },
+      {  
+         "name":"John",
+         "age":30,
+         "personatges":[  
+            {  
+               "aa":"bb",
+               "cc":"dd",
+               "ad":"da"
+            }
+         ]
+      }
    ],
- "Animes":[
-  {"name":"Pedro",
-  "age":23},
-  {"name":"Kevin",
-  "age":21}
+   "Otros":[  
+      {  
+         "name":"Pedro",
+         "age":23
+      },
+      {  
+         "name":"Kevin",
+         "age":21
+      }
    ]
- 
-  }
+}
