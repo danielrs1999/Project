@@ -3,34 +3,41 @@
       {  
          "name":"John",
          "age":30,
-         "personatges":[  
-            {  
-               "aa":"bb",
-               "cc":"dd",
-               "ad":"da"
-            }
-         ]
+         "personatges":"lo"
       },
       {  
-         "name":"John",
-         "age":30,
-         "personatges":[  
-            {  
-               "aa":"bb",
-               "cc":"dd",
-               "ad":"da"
-            }
-         ]
+         "name":"dani",
+         "age":20,
+         "personatges":"la"
+      },
+      {  
+         "name":"fil",
+         "age":50,
+         "personatges":"loss"
       }
    ],
    "Otros":[  
       {  
          "name":"Pedro",
-         "age":23
+         "age":23,
+         "personatges":[  
+            {  
+               "aa":"bb",
+               "cc":"dd",
+               "ad":"da"
+            }
+         ]
       },
       {  
          "name":"Kevin",
-         "age":21
+         "age":21,
+         "personatges":[  
+            {  
+               "aa":"bb",
+               "cc":"dd",
+               "ad":"da"
+            }
+         ]
       }
    ]
 }
