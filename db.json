@@ -1,16 +1,134 @@
-{  
-   "manga":[
+{
+  "manga": [
     {
-      "title": "",
+      "title": "One Piece",
       "synopsis": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.",
       "demographic": "Shōnen",
       "wirtter": "Eiichiro Oda",
       "genre": "Adventure, fantasy",
       "runDate": "July 22, 1997",
-      "endDate": true,
+      "endDate": "present",
+      "IMG": "https://images-na.ssl-images-amazon.com/images/I/61hgFtFH7YL.jpg",
       "characters": [
         {
-
+          "name": "Monkey D. Luffy",
+          "age": "19",
+          "birthday": "May 5th",
+          "height": "174 cm",
+          "status": "Alive",
+          "description": "Is the main protagonist of the manga and anime, One Piece. He is the founder and captain of the increasingly infamous and powerful Straw Hat Pirates, as well as one of its top three fighters.",
+          "IMGchar": "data:image/jpeg;base64,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"
+        },
+        {
+          "name": "Roronoa Zoro",
+          "age": "21",
+          "birthday": "November 11th",
+          "height": "181 cm",
+          "status": "Alive",
+          "description": "Is a swordsman and combatant of the Straw Hat Pirates and a former bounty hunter. He was the first member to join the crew, and is considered one of the most dangerous members in it after Luffy.",
+          "IMGchar": "https://freepngimg.com/thumb/one_piece/23213-7-one-piece-zoro-photos.png"
+        },
+        {
+          "name": "Sanji",
+          "age": "21",
+          "birthday": "March 2nd",
+          "height": "180 cm",
+          "status": "Alive",
+          "description": "Is a pirate and the chef of the Straw Hat Pirates. He is the fifth member of the crew and the fourth to join.",
+          "IMGchar": "https://freepngimg.com/thumb/one_piece/23153-2-one-piece-sanji-file.png"
+        },
+        {
+          "name": "Shanks",
+          "age": "39",
+          "birthday": "March 9th",
+          "height": "199 cm",
+          "status": "Alive",
+          "description": "Is the leader of the Red Hair Pirates and a member of the Yonko that rule over the New World. He is also a former member of the legendary Roger Pirates, the only group to successfully conquer the Grand Line, where he started as a pirate as an apprentice.",
+          "IMGchar": "https://vignette.wikia.nocookie.net/onepiece/images/6/66/Shanks_Anime_Infobox.png/revision/latest?cb\\u003d20180607083158"
+        },
+        {
+          "name": "Gol D. Roger",
+          "age": "53",
+          "birthday": "December 31st",
+          "height": "274 cm",
+          "status": "Deceased",
+          "description": "Was a legendary pirate who, as the captain of the Roger Pirates, held the title of Pirate King and owned the legendary treasure known as \"One Piece\". ... As such, this made Roger single-handedly responsible for starting the Golden Age of Pirates.",
+          "IMGchar": "https://vignette.wikia.nocookie.net/onepiece/images/2/24/Gol_D._Roger_Anime_Infobox.png/revision/latest?cb=20161001180022"
+        }
+      ]
+    },
+    {
+      "title": "Attack on titan",
+      "synopsis": "Eren Yeager lives with his foster sister Mikasa Ackerman and best friend Armin Arlert in the town of Shiganshina adjacent to Wall Maria, outermost of three circular walls protecting humanity from man-eating Titans that are said to have killed all other humans one hundred years prior.",
+      "demographic": "Shōnen",
+      "wirtter": "Hajime Isayama",
+      "genre": "Action, dark fantasy, post-apocalyptic",
+      "runDate": "September 9, 2009",
+      "endDate": "present",
+      "IMG": "https://images-na.ssl-images-amazon.com/images/I/618khoeeNbL._SY741_.jpg",
+      "characters": [
+        {
+          "name": "Eren Yeager",
+          "age": "19",
+          "birthday": "March 30th",
+          "height": "183 cm",
+          "status": "Alive",
+          "description": "Is a member of the Scout Regiment and the main protagonist of Attack on Titan. He is the only son of Grisha and Carla Jaeger, the adoptive brother of Mikasa Ackermann, the younger paternal half brother of Zeke Jaeger and the holder of the Attack Titan and the Founding Titan.",
+          "IMGchar": "https://vignette.wikia.nocookie.net/shingekinokyojin/images/6/69/Eren_Yeager_character_image.png/revision/latest?cb=20190704105949"
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
         }
       ]
     },
@@ -22,9 +140,61 @@
       "genre": "",
       "runDate": "",
       "endDate": "",
+      "IMG": "",
       "characters": [
         {
-
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
         }
       ]
     },
@@ -36,9 +206,61 @@
       "genre": "",
       "runDate": "",
       "endDate": "",
+      "IMG": "",
       "characters": [
         {
-
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
         }
       ]
     },
@@ -50,23 +272,70 @@
       "genre": "",
       "runDate": "",
       "endDate": "",
+      "IMG": "",
       "characters": [
         {
-
-        }
-      ]
-    },
-    {
-      "title": "",
-      "synopsis": "",
-      "demographic": "",
-      "wirtter": "",
-      "genre": "",
-      "runDate": "",
-      "endDate": "",
-      "characters": [
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
         {
-
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
+        },
+        {
+          "name": "",
+          "age": "",
+          "birthday": "",
+          "height": "",
+          "status": "",
+          "description": "",
+          "IMGchar": ""
         }
       ]
     }
