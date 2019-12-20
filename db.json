@@ -4,16 +4,17 @@
       "title": "One Piece",
       "synopsis": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.",
       "demographic": "Shōnen",
-      "wirtter": "Eiichiro Oda",
+      "author": "Eiichiro Oda",
       "genre": "Adventure, fantasy",
       "runDate": "July 22, 1997",
-      "endDate": "present",
+      "endDate": "ongoing",
       "IMG": "https://images-na.ssl-images-amazon.com/images/I/61hgFtFH7YL.jpg",
       "characters": [
         {
           "name": "Monkey D. Luffy",
           "age": "19",
           "birthday": "May 5th",
+          "gender": "Male",
           "height": "174 cm",
           "status": "Alive",
           "description": "Is the main protagonist of the manga and anime, One Piece. He is the founder and captain of the increasingly infamous and powerful Straw Hat Pirates, as well as one of its top three fighters.",
@@ -23,6 +24,7 @@
           "name": "Roronoa Zoro",
           "age": "21",
           "birthday": "November 11th",
+          "gender": "Male",
           "height": "181 cm",
           "status": "Alive",
           "description": "Is a swordsman and combatant of the Straw Hat Pirates and a former bounty hunter. He was the first member to join the crew, and is considered one of the most dangerous members in it after Luffy.",
@@ -32,6 +34,7 @@
           "name": "Sanji",
           "age": "21",
           "birthday": "March 2nd",
+          "gender": "Male",
           "height": "180 cm",
           "status": "Alive",
           "description": "Is a pirate and the chef of the Straw Hat Pirates. He is the fifth member of the crew and the fourth to join.",
@@ -41,6 +44,7 @@
           "name": "Shanks",
           "age": "39",
           "birthday": "March 9th",
+          "gender": "Male",
           "height": "199 cm",
           "status": "Alive",
           "description": "Is the leader of the Red Hair Pirates and a member of the Yonko that rule over the New World. He is also a former member of the legendary Roger Pirates, the only group to successfully conquer the Grand Line, where he started as a pirate as an apprentice.",
@@ -50,6 +54,7 @@
           "name": "Gol D. Roger",
           "age": "53",
           "birthday": "December 31st",
+          "gender": "Male",
           "height": "274 cm",
           "status": "Deceased",
           "description": "Was a legendary pirate who, as the captain of the Roger Pirates, held the title of Pirate King and owned the legendary treasure known as \"One Piece\". ... As such, this made Roger single-handedly responsible for starting the Golden Age of Pirates.",
@@ -61,74 +66,185 @@
       "title": "Attack on titan",
       "synopsis": "Eren Yeager lives with his foster sister Mikasa Ackerman and best friend Armin Arlert in the town of Shiganshina adjacent to Wall Maria, outermost of three circular walls protecting humanity from man-eating Titans that are said to have killed all other humans one hundred years prior.",
       "demographic": "Shōnen",
-      "wirtter": "Hajime Isayama",
+      "author": "Hajime Isayama",
       "genre": "Action, dark fantasy, post-apocalyptic",
       "runDate": "September 9, 2009",
-      "endDate": "present",
+      "endDate": "ongoing",
       "IMG": "https://images-na.ssl-images-amazon.com/images/I/618khoeeNbL._SY741_.jpg",
       "characters": [
         {
           "name": "Eren Yeager",
           "age": "19",
           "birthday": "March 30th",
+          "gender": "Male",
           "height": "183 cm",
           "status": "Alive",
-          "description": "Is a member of the Scout Regiment and the main protagonist of Attack on Titan. He is the only son of Grisha and Carla Jaeger, the adoptive brother of Mikasa Ackermann, the younger paternal half brother of Zeke Jaeger and the holder of the Attack Titan and the Founding Titan.",
-          "IMGchar": "https://vignette.wikia.nocookie.net/shingekinokyojin/images/6/69/Eren_Yeager_character_image.png/revision/latest?cb=20190704105949"
+          "description": " is a former member of the Survey Corps and the main protagonist of Attack on Titan. He lived in the Shiganshina District with his parents and adopted sister Mikasa Ackerman until the fall of Wall Maria. During the incident, Eren impotently witnessed his mother being eaten by a Titan. This event aroused in Eren an intense hatred towards the Titans, and he swore to wipe all of them off the face of the Earth.",
+          "IMGchar": "https://img.pngio.com/eren-jaeger-death-battle-fanon-wiki-fandom-powered-by-wikia-eren-yeager-png-870_919.png"
         },
         {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
+          "name": "Mikasa Ackerman",
+          "age": "19",
+          "birthday": "February 10th",
+          "gender": "Female",
+          "height": "176 cm",
+          "status": "Alive",
+          "description": "Is the adoptive sister of Eren Yeager and one of the two deuteragonists of the series, along with Armin Arlert.\n\nAfter her biological parents were murdered by human traffickers, Mikasa was rescued by Eren Yeager and lived with him and his parents, Grisha and Carla, before the fall of Wall Maria. She is the last descendant of the Shogun clan that stayed on Paradis Island, thereby related to the Azumabito family, and holds significant political power in Hizuru.\n\nThough she desires only to live a peaceful life, Mikasa entered into the military—where she is considered the best soldier among the 104th Training Corps. She later enlists in the Survey Corps to follow and protect Eren, becoming one of its greatest assets. She is currently serving as an officer in the Corps.",
+          "IMGchar": "https://img.pngio.com/mikasa-ackerman-png-7-png-image-mikasa-ackerman-png-827_1169.png"
         },
         {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
+          "name": "Levi Ackerman",
+          "age": "30",
+          "birthday": "December 25th",
+          "gender": "Male",
+          "height": "160 cm",
+          "status": "Unknown",
+          "description": "Is a Captain in the Survey Corps, rumored to be the strongest soldier alive.",
+          "IMGchar": "https://www.elsetge.cat/myimg/f/47-475206_levi-ackerman-wallpaper-79-images-in-collection-page.png"
         },
         {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
+          "name": "Armin Arlert",
+          "age": "19",
+          "birthday": "November 3rd",
+          "gender": "Male",
+          "height": "168 cm",
+          "status": "Alive",
+          "description": "Is an elite soldier in the Survey Corps. He is also a childhood friend of Eren Yeager and Mikasa Ackerman, and one of the two deuteragonists of the series. Although he appears to be among the physically weakest of the 104th Training Corps, his intelligence and strategic genius make him an invaluable asset, especially when paired with Hange Zoë. After the battle of Shiganshina District, he took the power of the Titans from Bertolt Hoover and became the Colossus Titan. He is currently an officer in the Survey Corps.",
+          "IMGchar": "https://static.zerochan.net/Armin.Arlert.full.2585069.png"
         },
         {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
+          "name": "Erwin Smith",
+          "age": "35",
+          "birthday": "October 14th",
+          "gender": "Male",
+          "height": "188 cm",
+          "status": "Deceased",
+          "description": "Was the 13th commander of the Survey Corps. Discerning, intelligent, and widely respected, Erwin was an able commander. While he cared deeply for his men, he did not hesitate to sacrifice them for the good and prosperity of mankind, and his men proved more than willing to stake their lives at his order. During Erwin's career he developed the Long-Distance Enemy Scouting Formation, and due to uncertainty about his future, he later named Hange Zoë as his successor.",
+          "IMGchar": "https://www.anime-planet.com/images/characters/erwin-smith-25700.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Nanatsu no taizai",
+      "synopsis": "In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the \"Seven Deadly Sins,\" were still alive. Ten years later, the Holy Knights themselves staged a coup d’état, and thus became the new, tyrannical rulers of the Kingdom of Liones.",
+      "demographic": "Shōnen",
+      "author": "Nakaba Suzuki",
+      "genre": "Action, Adventure, Fantasy",
+      "runDate": "October 10, 2012",
+      "endDate": "ongoing",
+      "IMG": "data:image/jpeg;base64,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",
+      "characters": [
+        {
+          "name": "Meliodas",
+          "age": "3,000+",
+          "birthday": "July 25",
+          "gender": "Male",
+          "height": "152 cm",
+          "status": "Alive",
+          "description": "Is the Dragon's Sin of Wrath and captain of the Seven Deadly Sins. He is the main protagonist of the series and was the owner of the renowned tavern Boar Hat. His Sacred Treasure is the Demon Sword Lostvayne and his inherent power is Full Counter. He was also the head of the Ten Commandments, as Meliodas the Love and a former member of Stigma. He is the older brother of Zeldris and the eldest son of the Demon King.",
+          "IMGchar": "https://www.itl.cat/pngfile/big/46-462943_wallpaper-of-meliodas-the-seven-deadly-sins-demon.jpg"
         },
         {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
+          "name": "King",
+          "age": "1,300+",
+          "birthday": "April 1",
+          "gender": "Male",
+          "height": "160 cm",
+          "status": "Alive",
+          "description": "is the Grizzly's Sin of Sloth of the Seven Deadly Sins. His real name is Fairy King Harlequin as he protects the Fairy King's Forest and the rest of the Fairy Realm. His Sacred Treasure is the Spirit Spear Chastiefol, which he uses in conjunction with his inherent power, Disaster. He is also the older brother of Elaine, the guardian of the Fountain of Youth, as well as the fiancé of Diane, a fellow member of the Sins, and a member of the Giant Clan.",
+          "IMGchar": "https://www.nicepng.com/png/full/645-6451315_nanatsu-no-taizai-king-seven-deadly-sins.png"
         },
         {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
+          "name": "Merlin",
+          "age": "3,000+",
+          "birthday": "December 3",
+          "gender": "Female",
+          "height": "177 cm",
+          "status": "Alive",
+          "description": "is the Boar's Sin of Gluttony of the Seven Deadly Sins. She is regarded as the greatest mage in Britannia. Her Sacred Treasure is the Morning Star Aldan, a floating orb she can summon at will and often uses in conjunction with her spells and her inherent power Infinity. The name \"Merlin\" is actually an alias as her true name is unpronounceable to humans.",
+          "IMGchar": "https://i.pinimg.com/originals/2d/e4/f0/2de4f0dc4b4a9e3e7731a15f18f60ef4.png"
+        },
+        {
+          "name": "Arthur Pendragon",
+          "age": "16",
+          "birthday": "August 17",
+          "gender": "Male",
+          "height": "170 cm",
+          "status": "Alive",
+          "description": "Is the current king and ruler of Camelot and holder of the legendary sword, Excalibur.",
+          "IMGchar": "https://i.pinimg.com/originals/a4/53/0e/a4530e226b2fc2a0cc8362ef9cefeb45.png"
+        },
+        {
+          "name": "Elizabeth Liones",
+          "age": "16",
+          "birthday": "June 12",
+          "gender": "Female",
+          "height": "162 cm",
+          "status": "Alive",
+          "description": "Is the third adoptive princess of the Kingdom of Liones. She is the deuteragonist of the series, and an alleged survivor from the Kingdom of Danafor and a former waitress at Boar Hat bar during her journey to find the Seven Deadly Sins, eventually becoming a prominent asset and healer for them. She also is the 107th reincarnation of the Goddess Elizabeth, the Supreme Deity's daughter 3,000 years ago who also reincarnated in the Holy Knight Liz.",
+          "IMGchar": "https://www.jeuxmangas.com/IMG/jpg/0064-2.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Code geass",
+      "synopsis": "After invading Japan using giant robot weapons called Knightmares, the powerful Empire of Britannia takes over the country and renames it \"Area 11\" and its people, \"Elevens.\" In the socially stratified society, the Japanese are forced to live poor, suppressed lives while the Briannians are respected and live lavishly. Although rebel groups of Japanese do rise up, they are usually crushed by Britannia forces.\n\nWhen his mother is assassinated, former prince of Britannia Lelouch renounces his entitlement to the throne and accuses his unconcerned father, the king of Britannia, of leaving his mother defenseless. After being banished to Japan along with his sister Nunnally (who became blind and unable to walk after getting caught up in their mother's violent assassination), Lelouch swears to his best friend Suzaku that he will destroy Britannia some day. Years later, while hiding out in Area 11 and attending the Britannian school Ashford Academy, Lelouch accidentally gets caught up in a terrorist raid on a military secret; that \"secret\" ends up being a mysterious girl named C.C., and when Lelouch unwittingly discovers her, she grants him the power of Geass, which allows him to control anyone just by looking into their eyes. At the same time, Lelouch also discovers that Suzaku is now working for the Britannia military, the very military that Lelouch is hoping to destroy.",
+      "demographic": "Seinen",
+      "author": "Ichirō Ōkouchi",
+      "genre": "Alternate history, mecha, military",
+      "runDate": "December 26, 2006",
+      "endDate": "August 9, 2008",
+      "IMG": "https://images-na.ssl-images-amazon.com/images/I/71b6uVcU8aL._SL1200_.jpg",
+      "characters": [
+        {
+          "name": "Lelouch vi Britannia",
+          "age": "18",
+          "birthday": "December 5, 1999",
+          "gender": "Male",
+          "height": "178 cm",
+          "status": "Deceased",
+          "description": "Is the protagonist of Code Geass: Lelouch of the Rebellion and Code Geass: Lelouch of the Rebellion R2, and plays a supporting role in sidestories like Code Geass: Oz the Reflection and Code Geass: Lancelot & Guren. After he was exiled he used the alias, Lelouch Lamperouge. He was the Eleventh Prince of the Holy Britannian Empire and the son of the 98th Emperor of Britannia, Charles zi Britannia. He was also the leader of the Black Knights and the real identity of Zero. He is voiced by Jun Fukuyama, while his child self is voiced by Sayaka Ohara. His English dub voice is provided by Johnny Yong Bosch with Michelle Ruff doing Lelouch's child voice.",
+          "IMGchar": "https://i.ytimg.com/vi/7PtggAmd5wk/maxresdefault.jpg"
+        },
+        {
+          "name": "C.C.",
+          "age": "16",
+          "birthday": "Unknown",
+          "gender": "Female",
+          "height": "168 cm",
+          "status": "Alive",
+          "description": "Is the tritagonist of Code Geass: Lelouch of the Rebellion. Her seiyu is Yukana while she is voiced by Kate Higgins in the English dub. C.C. is not her real name; she involuntarily reveals her real name to Lelouch in her sleep, but it is muted so the viewers cannot hear it.",
+          "IMGchar": "https://toppng.com/uploads/preview/cc-code-geass-11562990728dk3bcqmufn.png"
+        },
+        {
+          "name": "Suzaku Kururugi",
+          "age": "18",
+          "birthday": "July 10, 2000",
+          "gender": "Male",
+          "height": "1.76 m",
+          "status": "Alive",
+          "description": "Is the deuteragonist of the Sunrise anime series Code Geass: Lelouch of the Rebellion, one of the antagonists of Code Geass: Akito the Exiled, and one of the protagonists of Code Geass: Lancelot & Guren. He is voiced by Takahiro Sakurai, while his child self is voiced by Akeno Watanabe. He is voiced by Yuri Lowenthal in the English dub, and his child self is voiced by Laura Bailey. In the 29th Anime Grand Prix, he was placed sixth with 143 votes, then 19th and 13th, respectively, in the following two.",
+          "IMGchar": "https://www.pikpng.com/pngl/m/336-3362373_code-geass-suzaku-kururugi-png-png-download-code.png"
+        },
+        {
+          "name": "Cornelia li Britannia",
+          "age": "28",
+          "birthday": "January 13th 1990",
+          "gender": "Female",
+          "height": "180 cm",
+          "status": "Alive",
+          "description": "Is the second princess of the Britannian Imperial Family and is Lelouch's half-sister. She is extremely skilled in Knightmare Frame combat and completed the establishment of Area 18 shortly before arriving in Area 11. She serves as one of the main antagonists during the first season, but later becomes a neutral character during the second.",
+          "IMGchar": "https://vignette.wikia.nocookie.net/codegeass/images/2/24/Cornelia_li_Britannia.jpg/revision/latest/scale-to-width-down/340?cb=20160428174414"
+        },
+        {
+          "name": "Charles zi Britannia",
+          "age": "63",
+          "birthday": "August 4, 1955",
+          "gender": "Male",
+          "height": "197 cm",
+          "status": "Deceased",
+          "description": "He had a Geass power that allowed him to suppress and alter the memories of those he achieved eye contact with, but lost this power in exchange for V.V.'s code which granted him immortality. He served as the main antagonist in both of the series.",
+          "IMGchar": "https://i.pinimg.com/736x/fb/47/7d/fb477d62688c7679a290c98aac94254d.jpg"
         }
       ]
     },
@@ -136,7 +252,7 @@
       "title": "",
       "synopsis": "",
       "demographic": "",
-      "wirtter": "",
+      "author": "",
       "genre": "",
       "runDate": "",
       "endDate": "",
@@ -146,6 +262,7 @@
           "name": "",
           "age": "",
           "birthday": "",
+          "gender": "",
           "height": "",
           "status": "",
           "description": "",
@@ -155,6 +272,7 @@
           "name": "",
           "age": "",
           "birthday": "",
+          "gender": "",
           "height": "",
           "status": "",
           "description": "",
@@ -164,6 +282,7 @@
           "name": "",
           "age": "",
           "birthday": "",
+          "gender": "",
           "height": "",
           "status": "",
           "description": "",
@@ -173,6 +292,7 @@
           "name": "",
           "age": "",
           "birthday": "",
+          "gender": "",
           "height": "",
           "status": "",
           "description": "",
@@ -182,156 +302,7 @@
           "name": "",
           "age": "",
           "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        },
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        }
-      ]
-    },
-    {
-      "title": "",
-      "synopsis": "",
-      "demographic": "",
-      "wirtter": "",
-      "genre": "",
-      "runDate": "",
-      "endDate": "",
-      "IMG": "",
-      "characters": [
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        },
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        },
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        },
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        },
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        },
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        }
-      ]
-    },
-    {
-      "title": "",
-      "synopsis": "",
-      "demographic": "",
-      "wirtter": "",
-      "genre": "",
-      "runDate": "",
-      "endDate": "",
-      "IMG": "",
-      "characters": [
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        },
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        },
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        },
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        },
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        },
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        },
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
+          "gender": "",
           "height": "",
           "status": "",
           "description": "",
