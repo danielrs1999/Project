@@ -310,29 +310,5 @@
         }
       ]
     }
-  ],
-   "Otros":[  
-      {  
-         "name":"Pedro",
-         "age":23,
-         "personatges":[  
-            {  
-               "aa":"bb",
-               "cc":"dd",
-               "ad":"da"
-            }
-         ]
-      }, 
-      {  
-         "name":"Kevin",
-         "age":21,
-         "personatges":[  
-            {  
-               "aa":"bb",
-               "cc":"dd",
-               "ad":"da"
-            }
-         ]
-      }
-   ]
+  ]
 }
