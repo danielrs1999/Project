@@ -247,68 +247,6 @@
           "IMGchar": "https://i.pinimg.com/736x/fb/47/7d/fb477d62688c7679a290c98aac94254d.jpg"
         }
       ]
-    },
-    {
-      "title": "",
-      "synopsis": "",
-      "demographic": "",
-      "author": "",
-      "genre": "",
-      "runDate": "",
-      "endDate": "",
-      "IMG": "",
-      "characters": [
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "gender": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        },
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "gender": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        },
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "gender": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        },
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "gender": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        },
-        {
-          "name": "",
-          "age": "",
-          "birthday": "",
-          "gender": "",
-          "height": "",
-          "status": "",
-          "description": "",
-          "IMGchar": ""
-        }
-      ]
     }
   ]
 }
