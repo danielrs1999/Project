@@ -1,4 +1,129 @@
-{"manga": [
+{
+  "manga": [
+    {
+      "title": "One Piece",
+      "synopsis": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.",
+      "demographic": "Shōnen",
+      "author": "Eiichiro Oda",
+      "genre": "Adventure, fantasy",
+      "runDate": "July 22, 1997",
+      "endDate": "ongoing",
+      "IMG": "https://images-na.ssl-images-amazon.com/images/I/61hgFtFH7YL.jpg",
+      "characters": [
+        {
+          "name": "Monkey D. Luffy",
+          "age": "19",
+          "birthday": "May 5th",
+          "gender": "Male",
+          "height": "174 cm",
+          "status": "Alive",
+          "description": "Is the main protagonist of the manga and anime, One Piece. He is the founder and captain of the increasingly infamous and powerful Straw Hat Pirates, as well as one of its top three fighters.",
+          "IMGchar": "https://image.winudf.com/v2/image/Y29tLmJhbGVmb290Lk1vbmtleURMdWZmeVdhbGxwYXBlcl9zY3JlZW5fMF8xNTI0NTE5MTEwXzAyOA/screen-0.jpg?fakeurl=1&type=.jpg"
+        },
+        {
+          "name": "Roronoa Zoro",
+          "age": "21",
+          "birthday": "November 11th",
+          "gender": "Male",
+          "height": "181 cm",
+          "status": "Alive",
+          "description": "Is a swordsman and combatant of the Straw Hat Pirates and a former bounty hunter. He was the first member to join the crew, and is considered one of the most dangerous members in it after Luffy.",
+          "IMGchar": "https://freepngimg.com/thumb/one_piece/23213-7-one-piece-zoro-photos.png"
+        },
+        {
+          "name": "Sanji",
+          "age": "21",
+          "birthday": "March 2nd",
+          "gender": "Male",
+          "height": "180 cm",
+          "status": "Alive",
+          "description": "Is a pirate and the chef of the Straw Hat Pirates. He is the fifth member of the crew and the fourth to join.",
+          "IMGchar": "https://freepngimg.com/thumb/one_piece/23153-2-one-piece-sanji-file.png"
+        },
+        {
+          "name": "Shanks",
+          "age": "39",
+          "birthday": "March 9th",
+          "gender": "Male",
+          "height": "199 cm",
+          "status": "Alive",
+          "description": "Is the leader of the Red Hair Pirates and a member of the Yonko that rule over the New World. He is also a former member of the legendary Roger Pirates, the only group to successfully conquer the Grand Line, where he started as a pirate as an apprentice.",
+          "IMGchar": "https://vignette.wikia.nocookie.net/onepiece/images/6/66/Shanks_Anime_Infobox.png/revision/latest?cb\\u003d20180607083158"
+        },
+        {
+          "name": "Gol D. Roger",
+          "age": "53",
+          "birthday": "December 31st",
+          "gender": "Male",
+          "height": "274 cm",
+          "status": "Deceased",
+          "description": "Was a legendary pirate who, as the captain of the Roger Pirates, held the title of Pirate King and owned the legendary treasure known as \"One Piece\". ... As such, this made Roger single-handedly responsible for starting the Golden Age of Pirates.",
+          "IMGchar": "https://vignette.wikia.nocookie.net/onepiece/images/2/24/Gol_D._Roger_Anime_Infobox.png/revision/latest?cb=20161001180022"
+        }
+      ]
+    },
+    {
+      "title": "Attack on titan",
+      "synopsis": "Eren Yeager lives with his foster sister Mikasa Ackerman and best friend Armin Arlert in the town of Shiganshina adjacent to Wall Maria, outermost of three circular walls protecting humanity from man-eating Titans that are said to have killed all other humans one hundred years prior.",
+      "demographic": "Shōnen",
+      "author": "Hajime Isayama",
+      "genre": "Action, dark fantasy, post-apocalyptic",
+      "runDate": "September 9, 2009",
+      "endDate": "ongoing",
+      "IMG": "https://images-na.ssl-images-amazon.com/images/I/618khoeeNbL._SY741_.jpg",
+      "characters": [
+        {
+          "name": "Eren Yeager",
+          "age": "19",
+          "birthday": "March 30th",
+          "gender": "Male",
+          "height": "183 cm",
+          "status": "Alive",
+          "description": " is a former member of the Survey Corps and the main protagonist of Attack on Titan. He lived in the Shiganshina District with his parents and adopted sister Mikasa Ackerman until the fall of Wall Maria. During the incident, Eren impotently witnessed his mother being eaten by a Titan. This event aroused in Eren an intense hatred towards the Titans, and he swore to wipe all of them off the face of the Earth.",
+          "IMGchar": "https://img.pngio.com/eren-jaeger-death-battle-fanon-wiki-fandom-powered-by-wikia-eren-yeager-png-870_919.png"
+        },
+        {
+          "name": "Mikasa Ackerman",
+          "age": "19",
+          "birthday": "February 10th",
+          "gender": "Female",
+          "height": "176 cm",
+          "status": "Alive",
+          "description": "Is the adoptive sister of Eren Yeager and one of the two deuteragonists of the series, along with Armin Arlert. After her biological parents were murdered by human traffickers, Mikasa was rescued by Eren Yeager and lived with him and his parents, Grisha and Carla, before the fall of Wall Maria. She is the last descendant of the Shogun clan that stayed on Paradis Island, thereby related to the Azumabito family, and holds significant political power in Hizuru.\n\nThough she desires only to live a peaceful life, Mikasa entered into the military—where she is considered the best soldier among the 104th Training Corps. She later enlists in the Survey Corps to follow and protect Eren, becoming one of its greatest assets. She is currently serving as an officer in the Corps.",
+          "IMGchar": "https://img.pngio.com/mikasa-ackerman-png-7-png-image-mikasa-ackerman-png-827_1169.png"
+        },
+        {
+          "name": "Levi Ackerman",
+          "age": "30",
+          "birthday": "December 25th",
+          "gender": "Male",
+          "height": "160 cm",
+          "status": "Unknown",
+          "description": "Is a Captain in the Survey Corps, rumored to be the strongest soldier alive.",
+          "IMGchar": "https://www.elsetge.cat/myimg/f/47-475206_levi-ackerman-wallpaper-79-images-in-collection-page.png"
+        },
+        {
+          "name": "Armin Arlert",
+          "age": "19",
+          "birthday": "November 3rd",
+          "gender": "Male",
+          "height": "168 cm",
+          "status": "Alive",
+          "description": "Is an elite soldier in the Survey Corps. He is also a childhood friend of Eren Yeager and Mikasa Ackerman, and one of the two deuteragonists of the series. Although he appears to be among the physically weakest of the 104th Training Corps, his intelligence and strategic genius make him an invaluable asset, especially when paired with Hange Zoë. After the battle of Shiganshina District, he took the power of the Titans from Bertolt Hoover and became the Colossus Titan. He is currently an officer in the Survey Corps.",
+          "IMGchar": "https://static.zerochan.net/Armin.Arlert.full.2585069.png"
+        },
+        {
+          "name": "Erwin Smith",
+          "age": "35",
+          "birthday": "October 14th",
+          "gender": "Male",
+          "height": "188 cm",
+          "status": "Deceased",
+          "description": "Was the 13th commander of the Survey Corps. Discerning, intelligent, and widely respected, Erwin was an able commander. While he cared deeply for his men, he did not hesitate to sacrifice them for the good and prosperity of mankind, and his men proved more than willing to stake their lives at his order. During Erwin's career he developed the Long-Distance Enemy Scouting Formation, and due to uncertainty about his future, he later named Hange Zoë as his successor.",
+          "IMGchar": "https://www.anime-planet.com/images/characters/erwin-smith-25700.jpg"
+        }
+      ]
+    },
     {
       "title": "Nanatsu no taizai",
       "synopsis": "In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the \"Seven Deadly Sins,\" were still alive. Ten years later, the Holy Knights themselves staged a coup d’état, and thus became the new, tyrannical rulers of the Kingdom of Liones.",
@@ -63,7 +188,7 @@
     },
     {
       "title": "Code geass",
-      "synopsis":"After invading Japan using giant robot weapons called Knightmares, the powerful Empire of Britannia takes over the country and renames it \"Area 11\" and its people, \"Elevens.\" In the socially stratified society, the Japanese are forced to live poor, suppressed lives while the Briannians are respected and live lavishly. Although rebel groups of Japanese do rise up, they are usually crushed by Britannia forces.When his mother is assassinated, former prince of Britannia Lelouch renounces his entitlement to the throne and accuses his unconcerned father, the king of Britannia, of leaving his mother defenseless. After being banished to Japan along with his sister Nunnally (who became blind and unable to walk after getting caught up in their mother's violent assassination), Lelouch swears to his best friend Suzaku that he will destroy Britannia some day.",
+      "synopsis": "After invading Japan using giant robot weapons called Knightmares, the powerful Empire of Britannia takes over the country and renames it \"Area 11\" and its people, \"Elevens.\" In the socially stratified society, the Japanese are forced to live poor, suppressed lives while the Briannians are respected and live lavishly. Although rebel groups of Japanese do rise up, they are usually crushed by Britannia forces.When his mother is assassinated, former prince of Britannia Lelouch renounces his entitlement to the throne and accuses his unconcerned father, the king of Britannia, of leaving his mother defenseless. After being banished to Japan along with his sister Nunnally (who became blind and unable to walk after getting caught up in their mother's violent assassination), Lelouch swears to his best friend Suzaku that he will destroy Britannia some day.",
       "demographic": "Seinen",
       "author": "Ichirō Ōkouchi",
       "genre": "Alternate history, mecha, military",
