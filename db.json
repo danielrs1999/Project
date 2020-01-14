@@ -135,7 +135,7 @@
       "characters": [
         {
           "name": "Meliodas",
-          "age": "3,000+",
+          "age": "3,000",
           "birthday": "July 25",
           "gender": "Male",
           "height": "152 cm",
@@ -145,7 +145,7 @@
         },
         {
           "name": "King",
-          "age": "1,300+",
+          "age": "1,300",
           "birthday": "April 1",
           "gender": "Male",
           "height": "160 cm",
@@ -155,7 +155,7 @@
         },
         {
           "name": "Merlin",
-          "age": "3,000+",
+          "age": "3,000",
           "birthday": "December 3",
           "gender": "Female",
           "height": "177 cm",
