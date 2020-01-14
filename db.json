@@ -2,7 +2,7 @@
   "manga": [
     {
       "title": "One Piece",
-      "synopsis": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.",
+      "synopsis": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece.",
       "demographic": "Shōnen",
       "author": "Eiichiro Oda",
       "genre": "Adventure, fantasy",
@@ -17,7 +17,7 @@
           "gender": "Male",
           "height": "174 cm",
           "status": "Alive",
-          "description": "Is the main protagonist of the manga and anime, One Piece. He is the founder and captain of the increasingly infamous and powerful Straw Hat Pirates, as well as one of its top three fighters.",
+          "description": "Is the main protagonist of the manga and anime, One Piece. He is the founder and captain of the increasingly infamous and powerful Straw Hat Pirates.",
           "IMGchar": "https://image.winudf.com/v2/image/Y29tLmJhbGVmb290Lk1vbmtleURMdWZmeVdhbGxwYXBlcl9zY3JlZW5fMF8xNTI0NTE5MTEwXzAyOA/screen-0.jpg?fakeurl=1&type=.jpg"
         },
         {
@@ -27,7 +27,7 @@
           "gender": "Male",
           "height": "181 cm",
           "status": "Alive",
-          "description": "Is a swordsman and combatant of the Straw Hat Pirates and a former bounty hunter. He was the first member to join the crew, and is considered one of the most dangerous members in it after Luffy.",
+          "description": "Is a swordsman and combatant of the Straw Hat Pirates and a former bounty hunter.",
           "IMGchar": "https://freepngimg.com/thumb/one_piece/23213-7-one-piece-zoro-photos.png"
         },
         {
@@ -37,7 +37,7 @@
           "gender": "Male",
           "height": "180 cm",
           "status": "Alive",
-          "description": "Is a pirate and the chef of the Straw Hat Pirates. He is the fifth member of the crew and the fourth to join.",
+          "description": "Is a pirate and the chef of the Straw Hat Pirates.",
           "IMGchar": "https://freepngimg.com/thumb/one_piece/23153-2-one-piece-sanji-file.png"
         },
         {
@@ -47,7 +47,7 @@
           "gender": "Male",
           "height": "199 cm",
           "status": "Alive",
-          "description": "Is the leader of the Red Hair Pirates and a member of the Yonko that rule over the New World. He is also a former member of the legendary Roger Pirates, the only group to successfully conquer the Grand Line, where he started as a pirate as an apprentice.",
+          "description": "Is the leader of the Red Hair Pirates and a member of the Yonko that rule over the New World.",
           "IMGchar": "https://vignette.wikia.nocookie.net/onepiece/images/6/66/Shanks_Anime_Infobox.png/revision/latest?cb\\u003d20180607083158"
         },
         {
@@ -57,14 +57,76 @@
           "gender": "Male",
           "height": "274 cm",
           "status": "Deceased",
-          "description": "Was a legendary pirate who, as the captain of the Roger Pirates, held the title of Pirate King and owned the legendary treasure known as \"One Piece\". ... As such, this made Roger single-handedly responsible for starting the Golden Age of Pirates.",
+          "description": "Was a legendary pirate who, as the captain of the Roger Pirates, held the title of Pirate King and owned the legendary treasure known as \"One Piece\".",
           "IMGchar": "https://vignette.wikia.nocookie.net/onepiece/images/2/24/Gol_D._Roger_Anime_Infobox.png/revision/latest?cb=20161001180022"
+        }
+      ]
+    },
+{
+      "title": "Attack on titan",
+      "synopsis": "Eren Yeager lives with his foster sister Mikasa Ackerman and best friend Armin Arlert in the town of Shiganshina adjacent to Wall Maria, outermost of three circular walls protecting humanity from man-eating Titans that are said to have killed all other humans one hundred years prior.",
+      "demographic": "Shōnen",
+      "author": "Hajime Isayama",
+      "genre": "Action, dark fantasy, post-apocalyptic",
+      "runDate": "September 9, 2009",
+      "endDate": "ongoing",
+      "IMG": "https://images-na.ssl-images-amazon.com/images/I/618khoeeNbL._SY741_.jpg",
+      "characters": [
+        {
+          "name": "Eren Yeager",
+          "age": "19",
+          "birthday": "March 30th",
+          "gender": "Male",
+          "height": "183 cm",
+          "status": "Alive",
+          "description": " is a former member of the Survey Corps and the main protagonist of Attack on Titan. He lived in the Shiganshina District with his parents and adopted sister Mikasa Ackerman until the fall of Wall Maria. During the incident, Eren impotently witnessed his mother being eaten by a Titan. This event aroused in Eren an intense hatred towards the Titans, and he swore to wipe all of them off the face of the Earth.",
+          "IMGchar": "https://img.pngio.com/eren-jaeger-death-battle-fanon-wiki-fandom-powered-by-wikia-eren-yeager-png-870_919.png"
+        },
+        {
+          "name": "Mikasa Ackerman",
+          "age": "19",
+          "birthday": "February 10th",
+          "gender": "Female",
+          "height": "176 cm",
+          "status": "Alive",
+          "description": "Is the adoptive sister of Eren Yeager and one of the two deuteragonists of the series, along with Armin Arlert. After her biological parents were murdered by human traffickers, Mikasa was rescued by Eren Yeager and lived with him and his parents, Grisha and Carla, before the fall of Wall Maria.",
+          "IMGchar": "https://img.pngio.com/mikasa-ackerman-png-7-png-image-mikasa-ackerman-png-827_1169.png"
+        },
+        {
+          "name": "Levi Ackerman",
+          "age": "30",
+          "birthday": "December 25th",
+          "gender": "Male",
+          "height": "160 cm",
+          "status": "Unknown",
+          "description": "Is a Captain in the Survey Corps, rumored to be the strongest soldier alive.",
+          "IMGchar": "https://www.elsetge.cat/myimg/f/47-475206_levi-ackerman-wallpaper-79-images-in-collection-page.png"
+        },
+        {
+          "name": "Armin Arlert",
+          "age": "19",
+          "birthday": "November 3rd",
+          "gender": "Male",
+          "height": "168 cm",
+          "status": "Alive",
+          "description": "Is an elite soldier in the Survey Corps. He is also a childhood friend of Eren Yeager and Mikasa Ackerman, and one of the two deuteragonists of the series. He is currently an officer in the Survey Corps.",
+          "IMGchar": "https://static.zerochan.net/Armin.Arlert.full.2585069.png"
+        },
+        {
+          "name": "Erwin Smith",
+          "age": "35",
+          "birthday": "October 14th",
+          "gender": "Male",
+          "height": "188 cm",
+          "status": "Deceased",
+          "description": "Was the 13th commander of the Survey Corps. Discerning, intelligent, and widely respected, Erwin was an able commander. ",
+          "IMGchar": "https://www.anime-planet.com/images/characters/erwin-smith-25700.jpg"
         }
       ]
     },
     {
       "title": "Code geass",
-      "synopsis": "After invading Japan using giant robot weapons called Knightmares, the powerful Empire of Britannia takes over the country and renames it \"Area 11\" and its people, \"Elevens.\" In the socially stratified society, the Japanese are forced to live poor, suppressed lives while the Briannians are respected and live lavishly. Although rebel groups of Japanese do rise up, they are usually crushed by Britannia forces.When his mother is assassinated, former prince of Britannia Lelouch renounces his entitlement to the throne and accuses his unconcerned father, the king of Britannia, of leaving his mother defenseless. After being banished to Japan along with his sister Nunnally (who became blind and unable to walk after getting caught up in their mother's violent assassination), Lelouch swears to his best friend Suzaku that he will destroy Britannia some day.",
+      "synopsis": "After invading Japan using giant robot weapons called Knightmares, the powerful Empire of Britannia takes over the country and renames it \"Area 11\" and its people, \"Elevens.\"",
       "demographic": "Seinen",
       "author": "Ichirō Ōkouchi",
       "genre": "Alternate history, mecha, military",
@@ -79,7 +141,7 @@
           "gender": "Male",
           "height": "178 cm",
           "status": "Deceased",
-          "description": "Is the protagonist of Code Geass: Lelouch of the Rebellion and Code Geass: Lelouch of the Rebellion R2, and plays a supporting role in sidestories like Code Geass: Oz the Reflection and Code Geass: Lancelot & Guren. After he was exiled he used the alias, Lelouch Lamperouge. He was the Eleventh Prince of the Holy Britannian Empire and the son of the 98th Emperor of Britannia, Charles zi Britannia. He was also the leader of the Black Knights and the real identity of Zero. He is voiced by Jun Fukuyama, while his child self is voiced by Sayaka Ohara. His English dub voice is provided by Johnny Yong Bosch with Michelle Ruff doing Lelouch's child voice.",
+          "description": "Is the protagonist of Code Geass. After he was exiled he used the alias, Lelouch Lamperouge. He was the Eleventh Prince of the Holy Britannian Empire and the son of the 98th Emperor of Britannia, Charles zi Britannia.",
           "IMGchar": "https://i.ytimg.com/vi/7PtggAmd5wk/maxresdefault.jpg"
         },
         {
@@ -89,7 +151,7 @@
           "gender": "Female",
           "height": "168 cm",
           "status": "Alive",
-          "description": "Is the tritagonist of Code Geass: Lelouch of the Rebellion. Her seiyu is Yukana while she is voiced by Kate Higgins in the English dub. C.C. is not her real name; she involuntarily reveals her real name to Lelouch in her sleep, but it is muted so the viewers cannot hear it.",
+          "description": "Is the tritagonist of Code Geass. Her seiyu is Yukana while she is voiced by Kate Higgins in the English dub. C.C. is not her real name; she involuntarily reveals her real name to Lelouch in her sleep, but it is muted so the viewers cannot hear it.",
           "IMGchar": "https://toppng.com/uploads/preview/cc-code-geass-11562990728dk3bcqmufn.png"
         },
         {
@@ -99,7 +161,7 @@
           "gender": "Male",
           "height": "1.76 m",
           "status": "Alive",
-          "description": "Is the deuteragonist of the Sunrise anime series Code Geass: Lelouch of the Rebellion, one of the antagonists of Code Geass: Akito the Exiled, and one of the protagonists of Code Geass: Lancelot & Guren. He is voiced by Takahiro Sakurai, while his child self is voiced by Akeno Watanabe. He is voiced by Yuri Lowenthal in the English dub, and his child self is voiced by Laura Bailey. In the 29th Anime Grand Prix, he was placed sixth with 143 votes, then 19th and 13th, respectively, in the following two.",
+          "description": "Is a handsome young man with light brown hair and forest green eyes. He is rather tall, being slightly shorter than Lelouch. Like most characters in the series, he also is rather skinny, belying his extreme physical prowess.",
           "IMGchar": "https://www.pikpng.com/pngl/m/336-3362373_code-geass-suzaku-kururugi-png-png-download-code.png"
         },
         {
@@ -109,7 +171,7 @@
           "gender": "Female",
           "height": "180 cm",
           "status": "Alive",
-          "description": "Is the second princess of the Britannian Imperial Family and is Lelouch's half-sister. She is extremely skilled in Knightmare Frame combat and completed the establishment of Area 18 shortly before arriving in Area 11. She serves as one of the main antagonists during the first season, but later becomes a neutral character during the second.",
+          "description": "Is the second princess of the Britannian Imperial Family and is Lelouch's half-sister. She is extremely skilled in Knightmare Frame combat and completed the establishment of Area 18 shortly before arriving in Area 11.",
           "IMGchar": "https://vignette.wikia.nocookie.net/codegeass/images/2/24/Cornelia_li_Britannia.jpg/revision/latest/scale-to-width-down/340?cb=20160428174414"
         },
         {
@@ -119,7 +181,7 @@
           "gender": "Male",
           "height": "197 cm",
           "status": "Deceased",
-          "description": "He had a Geass power that allowed him to suppress and alter the memories of those he achieved eye contact with, but lost this power in exchange for V.V.'s code which granted him immortality. He served as the main antagonist in both of the series.",
+          "description": "He had a Geass power that allowed him to suppress and alter the memories of those he achieved eye contact with, but lost this power in exchange for V.V.'s code which granted him immortality.",
           "IMGchar": "https://i.pinimg.com/736x/fb/47/7d/fb477d62688c7679a290c98aac94254d.jpg"
         }
       ]
